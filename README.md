@@ -12,6 +12,12 @@ I am expanding my knowledge in Cybersecurity, DevOps, Full-stack development<br>
 ![](https://streak-stats.demolab.com/?user=bxgate&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=bxgate&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<table>
+<tr>
+<td width="200px">
+<img width="200px" alt="Skull" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
+</td>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
