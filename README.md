@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am expanding my knowledge in Cybersecurity, DevOps, Full-stack development<br><br>🧙‍♂️ I’m currently learning<br>👻 I’m ambitious with new things I do..<br>😎 Reach out to me at bhargavgatex2gmail.com<br>👽<br>
+I am expanding my knowledge in Cybersecurity, DevOps, Full-stack development<br><br>🧙‍♂️ I’m currently learning<br>👻 I’m ambitious with new things I do..<br>😎 Reach out to me at bhargavgatexgmail.com<br>👽<br>
 
 
 ## 🌐 Socials:
