@@ -1,6 +1,12 @@
 # 💫 About Me:
 I am expanding my knowledge in Cybersecurity, DevOps, Full-stack development<br><br>🧙‍♂️ I’m currently learning<br>👻 I’m ambitious with new things I do..<br>😎 Reach out to me at bhargavgatexgmail.com<br>👽<br>
 
+##.
+<table>
+<tr>
+<td width="200px">
+<img width="200px" alt="Skull" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
+</td>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bxgate_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](/https://www.linkedin.com/in/bhargav-gate-ba89aa309 ) 
